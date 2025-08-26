@@ -3,43 +3,45 @@
   <img src="https://i.ibb.co/QfG8jTn/frontend-banner.png" alt="Frontend Developer Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Ismail 👋</h1>
+<h1 align="center">👋 Hi, I'm Ismail</h1>
 <p align="center">
-  🚀 <b>Frontend Developer | React Enthusiast</b>  
+  🚀 <b>Frontend Developer | React & Tailwind Specialist</b>
 </p>
 
 ---
 
-### 🛠️ Tech I Use
+### 🛠️ My Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,vite" />
 </p>
 
 ---
 
-### 🌟 A Glimpse
-- Built **real-world business websites**  
-- Crafted **20+ React & Tailwind projects**  
-- Passionate about **scalable, user-friendly apps**  
+### 🌟 Snapshot
+- ⚡ Delivered **real-world business websites**  
+- 🎯 Built **20+ React + Tailwind projects**  
+- 💡 Focused on **clean, scalable, user-first apps**  
 
 ---
 
-### 📊 Quick Stats
+### 📊 GitHub at a Glance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### 📬 Connect
+### 🌍 Connect with Me
 <p align="center">
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
 
 ---
 
-<h3 align="center">💡 "Code is crafted, not just written."</h3>
+<h3 align="center">✨ "I don’t just write code—I craft digital experiences."</h3>
+
 
 
