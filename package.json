@@ -1,0 +1,25 @@
+{
+  "name": "sinsydev",
+  "version": "1.0.0",
+  "description": "<!--\r **Sinsydev/sinsydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinsydev/sinsydev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sinsydev/sinsydev/issues"
+  },
+  "homepage": "https://github.com/Sinsydev/sinsydev#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1"
+  }
+}
