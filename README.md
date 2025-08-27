@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/QfG8jTn/frontend-banner.png" alt="Frontend Developer Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Ismail</h1>
+<h1 align="center">👋 Hi, I'm Sinsydev</h1>
 <p align="center">
   🚀 <b>Frontend Developer | React & Tailwind Specialist</b>
 </p>
@@ -18,7 +18,7 @@
 ---
 
 ### 🌟 Snapshot
-- ⚡ Delivered **real-world business websites**  
+- ⚡ Delivered 3 **real-world business websites**  
 - 🎯 Built **20+ React + Tailwind projects**  
 - 💡 Focused on **clean, scalable, user-first apps**  
 
