@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/QfG8jTn/frontend-banner.png" alt="Frontend Developer Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Sinsydev</h1>
+<h1 align="center">👋 Hi, I'm  Ismail[Sinsydev]</h1>
 <p align="center">
   🚀 <b>Frontend Developer | React & Tailwind Specialist</b>
 </p>
