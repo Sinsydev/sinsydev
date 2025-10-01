@@ -1,7 +1,4 @@
- <!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/QfG8jTn/frontend-banner.png" alt="Frontend Developer Banner" width="100%" />
-</p>
+ 
 
 <h1 align="center">👋 Hi, I'm  Ismail[Sinsydev]</h1>
 <p align="center">
