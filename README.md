@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm  Ismail[Sinsydev]</h1>
 <p align="center">
-  🚀 <b>Frontend Developer | React & Tailwind Specialist</b>
+  🚀 <b> Frontend Developer | JS, React, Typescript , Firebase, Git, RESTFUL APIs, UI/UX, and Tailwind Specialist.</b>
 </p>
 
 ---
