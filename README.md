@@ -24,14 +24,6 @@
 
 ---
 
-### 📊 GitHub at a Glance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ### 🌍 Connect with Me
 <p align="center">
   <a href="https://github.com/sinsydev"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
