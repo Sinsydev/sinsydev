@@ -12,7 +12,7 @@
 
 ### 🛠️ My Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,firebase,git,github,vite" />
 </p>
 
 ---
