@@ -27,7 +27,7 @@
  <a href="https://www.linkedin.com/in/sinsy-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-  <a href="https://ismail-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"/></a>
+  <a href=" https://sinsydev.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
 
 ---
