@@ -15,7 +15,7 @@
 ---
 
 ### 🌟 Snapshot
-- ⚡ Delivered 3 **real-world business websites**  
+- ⚡ Delivered 5 **real-world business websites**  
 - 🎯 Built **20+ React + Tailwind projects**  
 - 💡 Focused on **clean, scalable, user-first apps**  
 
