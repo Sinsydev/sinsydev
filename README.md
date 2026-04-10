@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm  Ismail[Sinsydev]</h1>
 <p align="center">
-  🚀 <b> Fullstack Frontend Developer & Ai prompt Engineer | JS, React, Typescript , Firebase, Git, RESTFUL APIs, UI/UX, and Tailwind Specialist.</b>
+  🚀 <b> Fullstack Frontend Developer & Remote work Specialist | JS, React, Typescript , Firebase, Git, RESTFUL APIs, UI/UX, and Tailwind Specialist.</b>
 </p>
 
 ---
