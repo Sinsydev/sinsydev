@@ -2,7 +2,8 @@
 
 <h1 align="center">👋 Hi, I'm  Ismail[Sinsydev]</h1>
 <p align="center">
-  🚀 <b>  Technical Lead | Full Stack Web Engineer | React • TypeScript • JavaScript | Building Scalable Systems & Leading Project Delivery.</b>
+  🚀 <b>  Frontend Software Engineer | React • TypeScript • JavaScript | Building Accessible & Scalable Web Applications
+.</b>
 </p>
 
 ---
