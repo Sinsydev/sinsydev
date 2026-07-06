@@ -1,6 +1,6 @@
  <h1 align="center">👋 Hi, I'm Ismail [Sinsydev]</h1>
 <p align="center">
-  🚀 <b> Frontend Software Engineer | React • Next.js • TypeScript | Building AI-Powered SaaS & Scalable Web Applications</b>
+  🚀 <b> Software Engineer | TypeScript • React • Next.js • AI Applications | Building AI-Powered SaaS Products</b>
 </p>
 
 ---
