@@ -1,8 +1,12 @@
-<h1 align="center">👋 Hi, I'm Ismail [Sinsydev]</h1>
+<h1 align="center">👋 Hi, I'm Ismail Aminu Said [Sinsydev]</h1>
 <p align="center">
   🚀 <b> Software Engineer | TypeScript • React • Next.js • AI Applications | Building AI-Powered SaaS Products</b>
-       Building scalable AI-powered SaaS products with modern frontend technologies and exceptional user experiences.
 </p>
+<br>
+<p align="center">
+  🚀 <b>  Building scalable AI-powered SaaS products with modern frontend technologies and exceptional user experiences.</b>
+</p>
+
 
 ---
 
