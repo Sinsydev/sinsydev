@@ -1,6 +1,7 @@
- <h1 align="center">👋 Hi, I'm Ismail [Sinsydev]</h1>
+<h1 align="center">👋 Hi, I'm Ismail [Sinsydev]</h1>
 <p align="center">
   🚀 <b> Software Engineer | TypeScript • React • Next.js • AI Applications | Building AI-Powered SaaS Products</b>
+       Building scalable AI-powered SaaS products with modern frontend technologies and exceptional user experiences.
 </p>
 
 ---
@@ -10,12 +11,28 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,firebase,git,github,vite,docker" />
 </p>
 
+ ---
+
+## 🚀 What I Build
+
+- 🤖 AI-powered SaaS Applications
+- ⚛️ Modern React & Next.js Products
+- 📊 Interactive Dashboards
+- 🎓 Educational Platforms
+- 🏥 Healthcare Solutions
+- ⚡ High-performance Web Experiences
+
 ---
 
-### 🌟 Snapshot
-- ⚡ Delivered **5 real-world business websites**  
-- 🎯 Built **20+ React + Tailwind projects**  
-- 💡 Focused on **clean, scalable, user-first apps**  
+---
+
+## 🌱 Currently Exploring
+
+- AI Agents
+- Voice AI
+- RAG Applications
+- Developer Experience (DX)
+- Scalable Frontend Architecture
 
 ---
 
@@ -28,7 +45,11 @@
 
 ---
 
-<h3 align="center">✨ "I don’t just write code—I craft digital experiences."</h3>
+ <div align="center">
+
+### "Building software that solves real problems."
+
+</div>
 
 
 
